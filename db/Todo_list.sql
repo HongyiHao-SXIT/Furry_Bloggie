@@ -1,4 +1,4 @@
--- Active: 1736786939860@@127.0.0.1@3306@furry_bloggie
+-- Active: 1736786939860@@127.0.0.1@3306@todo_list
 CREATE TABLE IF NOT EXISTS users (
     id INT AUTO_INCREMENT PRIMARY KEY,
     username VARCHAR(50) NOT NULL,
